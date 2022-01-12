@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5dbf14c3-efa0-4274-ab25-ec375c04351d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/MobileRegistration.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/MobileRegistration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/AccessoriesInterface.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/AccessoriesInterface.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/AccessoriesPicture.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/AccessoriesPicture.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/AdminDashBoard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/AdminDashBoard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/AdminLogin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/AdminLogin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/CategoryInterface.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/CategoryInterface.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Checks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Checks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/Console.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ClientView/Console.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/ConsoleList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ClientView/ConsoleList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/FilterComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ClientView/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/GameList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ClientView/GameList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/GameView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ClientView/GameView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ClientView/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ClientView/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/MobileRegistration.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ClientView/MobileRegistration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/PaymentGateWay.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ClientView/PaymentGateWay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/ProductView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ClientView/ProductView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/QtySpinner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ClientView/QtySpinner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/ShowCart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ClientView/ShowCart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/SignUpForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ClientView/SignUpForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ClientView/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ClientView/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ConsolePicture.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ConsolePicture.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/DisplayAccessories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/DisplayAccessories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/DisplayAccessoriesPicture.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/DisplayAccessoriesPicture.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/DisplayAllCategories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/DisplayAllCategories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/DisplayAllSubCategories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/DisplayAllSubCategories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/DisplayConsolePicture.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/DisplayConsolePicture.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/DisplayGames.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/DisplayGames.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/DisplayGamesPicture.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/DisplayGamesPicture.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Displaydocuments.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Displaydocuments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Displayterms.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Displayterms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Documents.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Documents.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/FetchNodeServices.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/FetchNodeServices.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/GameInterface.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/GameInterface.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/GamesPicture.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/GamesPicture.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/ListItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/ListItems.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/RootReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/RootReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/SubCategoryInterface.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/SubCategoryInterface.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Termsandcondition.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Termsandcondition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/UserLogin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/UserLogin.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1y7fuBiRzwATDcgK4D4LEHK9KPW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dbf14c3-efa0-4274-ab25-ec375c04351d" name="Changes" comment="" />
+      <created>1631607769623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631607769623</updated>
+      <workItem from="1631607775155" duration="6000" />
+    </task>
+    <servers />
+  </component>
+</project>
