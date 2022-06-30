@@ -126,6 +126,14 @@ function App(props) {
           history={props.history}
         />
 
+      <Route
+          strict
+          exact
+          component={Home}
+          path="/"
+          history={props.history}
+        />
+
      <Route
           strict
           exact
