@@ -1,5 +1,5 @@
 let axios=require("axios")
-let ServerURL="http://localhost:4000"
+let ServerURL="https://games-4-u.herokuapp.com"
 
 const getData = async (url) => {
   try {
